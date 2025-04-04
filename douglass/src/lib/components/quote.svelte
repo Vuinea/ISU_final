@@ -27,6 +27,8 @@
         box-shadow: inset 5px 5px 10px #bebebe, inset -5px -5px 10px #ffffff;
         width: 40rem;
         height: 15rem;
-        font-size: large;
+        font-size: 0.8em;
+        background-color: #FCF5E5;
+        font-family: Cookie, serif;
     }
 </style>

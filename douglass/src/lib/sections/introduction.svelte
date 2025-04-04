@@ -24,7 +24,7 @@
             </div>
         </Quote>
         <Quote>
-            <div slot='quote'>
+            <div class="small-text"  slot='quote'>
                 "76 years ago,  <Semibold>the people of this country were British subjects... You were
                 under the British Crown</Semibold>... [The Founding Fathers] went so far in their excitement as to pronounce the measures of government 
                 unjust, unreasonable, and oppressive, and altogether such as ought not to be quietly submitted to.
@@ -39,7 +39,7 @@
             </div>
         </Quote>
         <Quote>
-            <div slot='quote'>
+            <div class="small-text" slot='quote'>
                 "The freedom gained is <Semibold>yours</Semibold>; and you, therefore, may properly celebrate this anniversary. 
                 The 4th of July is the first great fact in your nation's history—the very 
                 ring-bolt in the chain of your yet undeveloped destiny. 
@@ -57,3 +57,9 @@
         </Quote>
     </Quoteholder>
 </Section>
+
+    <style>
+        .small-text {
+            font-size: 0.9em;
+        }
+    </style>
