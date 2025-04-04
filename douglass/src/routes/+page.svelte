@@ -1,5 +1,6 @@
 <script>
     import Parallax from '$lib/components/parallax.svelte';
+    import Beginning from '$lib/sections/beginning.svelte';
     import Introduction from '$lib/sections/introduction.svelte';
     import Present from '$lib/sections/present.svelte';
     import Internaltrade from '$lib/sections/internaltrade.svelte';
@@ -8,6 +9,8 @@
     import Churchinamerica from '$lib/sections/churchinamerica.svelte';
     import Constitution from '$lib/sections/constitution.svelte';
 </script>
+
+<Beginning />
 
 <Parallax 
     backgroundImg='https://news.harvard.edu/wp-content/uploads/2023/06/wadsworth_02_Frederick-Douglass-cabinet-card-c1879-by-George-Kendall-Warren-1785.jpg?resize=1462,2048' 
