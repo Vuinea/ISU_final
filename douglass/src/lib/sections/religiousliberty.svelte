@@ -29,8 +29,10 @@
             </div>
             <div slot='description'>
                 Douglass believes that in any other country the church would
-                immediately demand the repeal of this law, but in the United States
-                they do not.
+                immediately demand the repeal of this law and that the US church
+                does not act in accordance with Christian values. This opposes
+                opinions that many Americans had at the time as they thought that
+                America was a nation essentially chosen by God.
             </div>
         </Quote>
     </Quoteholder>
