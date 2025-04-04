@@ -4,9 +4,10 @@
 
 <div class="content">
     <h2 class="subheading">{subheading}</h2>
-    <p>
-        <slot />
-    </p>
+    <div class="sectionBlurb">
+        <slot name='sectionBlurb' />
+    </div>
+    <slot />
 </div>
 
 <style>
@@ -19,5 +20,9 @@
             font-size: 2rem;
             color: #333;
             padding: 2rem;
+    }
+    
+    .sectionBlurb {
+        margin-bottom: 1rem;
     }
 </style>

@@ -26,6 +26,7 @@
         border-radius: 15px;
         box-shadow: inset 5px 5px 10px #bebebe, inset -5px -5px 10px #ffffff;
         width: 40rem;
-        height: min-content;
+        height: 15rem;
+        font-size: large;
     }
 </style>
