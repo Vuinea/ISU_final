@@ -1,0 +1,102 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+.parallax {
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-1 {
+    background-image: url('https://news.harvard.edu/wp-content/uploads/2023/06/wadsworth_02_Frederick-Douglass-cabinet-card-c1879-by-George-Kendall-Warren-1785.jpg?resize=1462,2048');
+}
+
+.parallax-2 {
+    background-image: url('https://wordpress.wbur.org/wp-content/uploads/2016/07/0720-fred-douglass-harpers.jpg');
+}
+
+.content {
+    height: 100vh;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 2rem;
+    color: #333;
+    padding: 2rem;
+}
+
+.large-quotation {
+    font-size: 5rem;
+    color: white;
+    /*position: fixed;*/
+    padding: 5rem;
+    font-family: Cookie, serif;
+}
+
+.subheading {
+    font-size: 3rem;
+    color: #333;
+    margin-bottom: 2rem;
+    font-weight: bold;
+}
+
+.quotes {
+    display: flex;
+    gap: 0.25rem;
+    flex-wrap: wrap;
+}
+
+.quote {
+    padding: 1.5rem;
+    border-radius: 15px;
+    box-shadow: inset 5px 5px 10px #bebebe, inset -5px -5px 10px #ffffff;
+    width: 40rem;
+    height: min-content;
+}
+
+
+/* Modal */
+/* Style for modal background */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Modal content box */
+.modal-content {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    width: 300px;
+    text-align: center;
+    position: relative;
+}
+
+/* Close button */
+.close {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+

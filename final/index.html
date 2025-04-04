@@ -10,59 +10,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index.css">
+    <script src="index.js" defer></script>
     <title>Parallax Effect</title>
-    <style>
-        body,
-        html {
-            margin: 0;
-            padding: 0;
-            height: 100%;
-            font-family: Arial, sans-serif;
-        }
-
-        .parallax {
-            height: 100vh;
-            background-attachment: fixed;
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: cover;
-        }
-
-        .parallax-1 {
-            background-image: url('https://news.harvard.edu/wp-content/uploads/2023/06/wadsworth_02_Frederick-Douglass-cabinet-card-c1879-by-George-Kendall-Warren-1785.jpg?resize=1462,2048');
-        }
-
-        .parallax-2 {
-            background-image: url('https://wordpress.wbur.org/wp-content/uploads/2016/07/0720-fred-douglass-harpers.jpg');
-        }
-
-        .content {
-            height: 100vh;
-            background: #fff;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-direction: column;
-            font-size: 2rem;
-            color: #333;
-            padding: 2rem;
-        }
-
-        .large-quotation {
-            font-size: 5rem;
-            color: white;
-            /*position: fixed;*/
-            padding: 5rem;
-            font-family: Cookie, serif;
-        }
-
-        .subheading {
-            font-size: 3rem;
-            color: #333;
-            margin-bottom: 2rem;
-            font-weight: bold;
-        }
-    </style>
 </head>
 
 <body>
@@ -86,13 +36,39 @@
     <div class="parallax parallax-2"></div>
     <div class="content">
         <h2 class="subheading">Introduction</h2>
-
+        <button id="openModalBtn">Open Modal</button>
         <p>
             Frederick starts his legendary speech by comparing the founding of the country to the its current state.
             He mentions that "76 years years ago, the people of this country were British subjects... You were 
             under the British Crown. "
         </p>
+        <div class="quotes">
+            <p class="quote">
+                "Your fathers staked their lives, their fortunes, and their sacred honor, on the cause of their country... 
+                In their admiration of liberty, they lost sight of all other interests."
+            </p>
+            <p class="quote">
+                "76 years years ago, the people of this country were British subjects... You were
+                under the British Crown... 
+            </p>
+            <p class="quote">
+                They went so far in their excitement as to pronounce the measures of government 
+                unjust, unreasonable, and oppressive, and altogether such as ought not to be quietly submitted to.
+                I scarcely need say, fellow-citizens, 
+                that my opinion of those measures fully accords with that of your fathers."
+            </p>
+        </div>
     </div>
+
+    <!-- The Modal -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Modal Title</h2>
+            <p>This is a simple modal example.</p>
+        </div>
+    </div>
+
 </body>
 
 </html>
