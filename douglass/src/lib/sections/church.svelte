@@ -38,8 +38,8 @@
         <Quote>
             <div slot='quote'>
                 "The American church is guilty, when viewed in connection with what it is doing to uphold
-                slavery; but it is superlatively guilty when viewed in connection with its ability to abolish
-                slavery.
+                slavery; but <Semibold> it is superlatively guilty when viewed in connection with its ability to abolish
+                slavery. </Semibold>
                 The sin of which it is guilty is one of omission as well as of commission."
             </div>
             <div slot='description'>
