@@ -26,15 +26,42 @@
                 Founding Fathers believed in, while slaves are stuck dying in the "sunlight" given by the day.
             </div>
         </Quote>
-
         <Quote>
             <div slot='quote'>
                 “America is false to the past, false to the present, and solemnly binds herself to be false to the future. 
-                Standing with God and the crushed and bleeding slave on this occasion
+                <Semibold>Standing with God</Semibold> and the crushed and bleeding slave on this occasion
             </div>
             <div slot='description'>
-
+                Douglass asserts that America uses the excuse of "God" to justify their actions
+                and this action makes them a false nation. 
+            </div>
+        </Quote>
+        <Quote>
+            <div slot='quote'>
+                “Fellow citizens; <Semibold>above your national, tumultuous joy,
+                I hear the mournful wail of millions!</Semibold> whose chains, heavy and grievous yesterday, 
+                are, today, rendered more intolerable by the jubilee shouts that reach them.”
+            </div>
+            <div slot='description'>
+                In this quote, Douglass is using his 'sense of hearing' to indicate the
+                problems that he believe are most important in this country. He believes that
+                the issue of slavery not being addressed on the day that celebrates freedom
+                is a problem for the country.
+            </div>
+        </Quote>
+        <Quote>
+            <div slot='quote'>
+                “What, to the American slave, is your 4th of July? 
+                I answer: a day that reveals to him, more than all other days in the year, 
+                the <Semibold>gross injustice and cruelty</Semibold> to which he is the constant victim.”
+            </div>
+            <div slot='description'>
+                Here, Douglass answers the question that the name of the quote proposes.
+                The whole speech up until now has led up to this irony. The irony that
+                the day that is meant to be celebrated by ALL Americans is a day that
+                around 12% of the population realized their lack of core American values.
             </div>
         </Quote>
     </Quoteholder>
 </Section>
+
