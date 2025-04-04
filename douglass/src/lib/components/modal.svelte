@@ -1,5 +1,6 @@
 <script>
     import { createEventDispatcher } from 'svelte';
+    import { fade, scale } from 'svelte/transition';
 
     export let isOpen = false; // Controlled by the parent
     const dispatch = createEventDispatcher();
@@ -26,7 +27,7 @@
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
-        background: white;
+        background: #FCF5E5;
         padding: 3rem;
         border-radius: 8px;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -45,9 +46,9 @@
 </style>
 
 {#if isOpen}
-    <div class="backdrop" on:click={closeModal}></div>
+    <div class="backdrop" on:click={closeModal} in:fade></div>
     <div class="quote-modal">
-        <button class="close-btn" on:click={closeModal}>&times;</button>
+        <button class="close-btn" on:click={closeModal} in:scale={{ duration: 150 }}>&times;</button>
         <slot></slot>
     </div>
 {/if}

@@ -34,16 +34,18 @@ In their admiration of liberty, they lost sight of all other interests.”
 
 <Present />
 
-<Parallax 
+<!-- <Parallax 
     backgroundImg='https://news.harvard.edu/wp-content/uploads/2023/06/wadsworth_02_Frederick-Douglass-cabinet-card-c1879-by-George-Kendall-Warren-1785.jpg?resize=1462,2048' 
 >
 
-</Parallax>
+</Parallax> -->
+
+<Parallax backgroundImg='https://res.cloudinary.com/aenetworks/image/upload/v1737378845/enslaved-people-rebellion-gettyimages-3324442.jpg' />
 
 <Internaltrade />
 
 <Parallax 
-    backgroundImg='https://wordpress.wbur.org/wp-content/uploads/2016/07/0720-fred-douglass-harpers.jpg'
+    backgroundImg='https://render.fineartamerica.com/images/rendered/default/print/8/7/break/images/artworkimages/medium/3/fugitive-slave-act-1850-granger.jpg'
 >
 </Parallax>
 
@@ -51,22 +53,23 @@ In their admiration of liberty, they lost sight of all other interests.”
 <Religiousliberty />
 
 <Parallax 
-    backgroundImg='https://news.harvard.edu/wp-content/uploads/2023/06/wadsworth_02_Frederick-Douglass-cabinet-card-c1879-by-George-Kendall-Warren-1785.jpg?resize=1462,2048' 
->
+    backgroundImg='https://www.loc.gov/exhibits/religion/images/vc006488.jpg' 
+/>
 
-</Parallax>
 
 <Church />
 
 <Parallax 
-    backgroundImg='https://wordpress.wbur.org/wp-content/uploads/2016/07/0720-fred-douglass-harpers.jpg'
+    backgroundImg='
+   https://media.npr.org/assets/news/2010/04/13/drawing-ce5f2c98eb982256217922c614f126883a27f5fd.jpg
+'
 >
 </Parallax>
 
 <Churchinamerica />
 
 <Parallax 
-    backgroundImg='https://news.harvard.edu/wp-content/uploads/2023/06/wadsworth_02_Frederick-Douglass-cabinet-card-c1879-by-George-Kendall-Warren-1785.jpg?resize=1462,2048' 
+    backgroundImg='https://www.battlefields.org/sites/default/files/styles/resource_hero/public/thumbnails/image/Constitution%2520Social%2520Card.jpg?h=268b1787&itok=yJiv7G67' 
 >
 
 </Parallax>
@@ -74,7 +77,7 @@ In their admiration of liberty, they lost sight of all other interests.”
 <Constitution />
 
 <Parallax 
-    backgroundImg='https://wordpress.wbur.org/wp-content/uploads/2016/07/0720-fred-douglass-harpers.jpg'
+    backgroundImg='https://news.harvard.edu/wp-content/uploads/2023/06/wadsworth_02_Frederick-Douglass-cabinet-card-c1879-by-George-Kendall-Warren-1785.jpg?resize=1462,2048' 
 >
 </Parallax>
 
