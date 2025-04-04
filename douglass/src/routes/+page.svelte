@@ -3,6 +3,7 @@
     import Introduction from '$lib/sections/introduction.svelte';
     import Present from '$lib/sections/present.svelte';
     import Internaltrade from '$lib/sections/internaltrade.svelte';
+    import Religiousliberty from '$lib/sections/religiousliberty.svelte';
 </script>
 
 <Parallax 
@@ -37,3 +38,12 @@ In their admiration of liberty, they lost sight of all other interests.”
 "I have one great political idea, that is, to agitate, to agitate, agitate!"
 </Parallax>
 
+
+<Religiousliberty />
+
+<Parallax 
+    backgroundImg='https://news.harvard.edu/wp-content/uploads/2023/06/wadsworth_02_Frederick-Douglass-cabinet-card-c1879-by-George-Kendall-Warren-1785.jpg?resize=1462,2048' 
+>
+"Your fathers staked their lives, their fortunes, and their sacred honor, on the cause of their country.
+In their admiration of liberty, they lost sight of all other interests.”
+</Parallax>
