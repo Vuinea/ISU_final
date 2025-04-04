@@ -5,7 +5,7 @@
     import Semibold from "$lib/components/semibold.svelte";
 </script>
 
-<Section subheading='The Present'>
+<Section subheading='Religious Liberty'>
     <p slot='sectionBlurb'>
         Religious Liberty is the shortest section of the speech
         and speaks about the fugitive slave law and how it is a crime towards Christianity.

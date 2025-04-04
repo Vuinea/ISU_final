@@ -4,6 +4,7 @@
     import Present from '$lib/sections/present.svelte';
     import Internaltrade from '$lib/sections/internaltrade.svelte';
     import Religiousliberty from '$lib/sections/religiousliberty.svelte';
+    import Church from '$lib/sections/church.svelte';
 </script>
 
 <Parallax 
@@ -46,4 +47,12 @@ In their admiration of liberty, they lost sight of all other interests.”
 >
 "Your fathers staked their lives, their fortunes, and their sacred honor, on the cause of their country.
 In their admiration of liberty, they lost sight of all other interests.”
+</Parallax>
+
+<Church />
+
+<Parallax 
+    backgroundImg='https://wordpress.wbur.org/wp-content/uploads/2016/07/0720-fred-douglass-harpers.jpg'
+>
+"I have one great political idea, that is, to agitate, to agitate, agitate!"
 </Parallax>
