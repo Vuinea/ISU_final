@@ -8,7 +8,7 @@
 <Section subheading='Religious Liberty'>
     <p slot='sectionBlurb'>
         Religious Liberty is the shortest section of the speech
-        and speaks about the fugitive slave law and how it is a crime towards Christianity.
+        and speaks about the Fugitive Slave Law and how it is a crime towards Christianity.
     </p>
     <Quoteholder>
         <Quote>
@@ -28,8 +28,8 @@
                 "A general shout would go up from the church, demanding repeal, repeal, <Semibold>instant repeal!</Semibold>"
             </div>
             <div slot='description'>
-                Douglass asserts believes that in any other country the church would
-                immediately demand the repeal of this law, but in the United States specifically
+                Douglass believes that in any other country the church would
+                immediately demand the repeal of this law, but in the United States
                 they do not.
             </div>
         </Quote>

@@ -27,7 +27,7 @@
         left: 50%;
         transform: translate(-50%, -50%);
         background: white;
-        padding: 1rem;
+        padding: 3rem;
         border-radius: 8px;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         z-index: 20;

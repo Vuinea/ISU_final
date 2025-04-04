@@ -28,7 +28,7 @@
                 the American slave-trade, sustained by American politics and American religion.”
             </div>
             <div slot="description">
-                Douglass believes that politicians and religion supporting the slave trade
+                Douglass believes that politicians and religious figures supporting the slave trade
                 signifies the corruption that exists within the country. That the country
                 is inhumane and more concerned about money than the wellbeing of its 
                 people. Furthermore, calling it 'practical' supports the point that 
@@ -45,8 +45,7 @@
             <div slot='description'>
                 Douglass is saying that the Fugitive Slave Law is a law that is inhumane and
                 unjust. He believes that the law is a crime against humanity and that it
-                should be abolished. He also believes that the law is a bribe to judges to
-                make them more likely to convict slaves. This bribe also supports the earlier
+                should be abolished. This bribe also supports the earlier
                 mentioned corruption that runs in this country to make as much as a profit
                 from slaves as possible.
             </div>

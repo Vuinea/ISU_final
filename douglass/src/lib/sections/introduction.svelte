@@ -7,8 +7,8 @@
 
 <Section subheading='Introduction'>
     <p slot='sectionBlurb'>
-        Most of the introduction of Douglass' speech is dedicated to the Founding Fathers and the American Revolution
-        and how there are many parallels between the struggles of the Founding Fathers and the struggles of slaves in the 1800s.
+        Most of this section is drawing parallels between the struggles of 
+        the American Revolution and slaves in the 1800s.
     </p>
     <Quoteholder>
         <Quote>
@@ -20,7 +20,7 @@
                 In this quote, Douglass highlights 2 different aspects about the American Revolution.
                 On one hand, he applauds the effort, determination, and sacrifice that the Founding Fathers
                 went through to achieve independence. However, he also points out the fact that in their conquest
-                for independnce and freedom they overlooked other aspects of the their country.
+                for independence and freedom they overlooked other aspects of the their country.
             </div>
         </Quote>
         <Quote>
@@ -32,10 +32,10 @@
                 that my opinion of those measures fully accords with that of your fathers."
             </div>
             <div slot='description'>
-                Douglass acknowledges how similar to how slaves in the 1800s were treated and oppressed, 
-                the Founding Fathers were also oppressed by the British Crown. He also uses the word 'You' to
-                make everyone in the audience feel like they were part of the same struggle and to help them 
-                empathize with slaves at the time.
+                Douglass points out the similarities of oppression between
+                slaves in the modern day and the Founding Fathers in the past. He also uses the word 'You' to
+                make everyone in the audience feel like they were part of the struggle for independence and so they
+                can understand the situation that slaves are in.
             </div>
         </Quote>
         <Quote>

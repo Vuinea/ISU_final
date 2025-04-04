@@ -9,7 +9,7 @@
     <p slot='sectionBlurb'>
         Douglass speaks about the good and bad parts of 
         the Constitution. He also speaks his conclusion to the whole speech in
-        this part. In his conclusion, he believes that slavery is dying and is hopeful for the future.
+        this part. In his conclusion, he believes that slavery is dying and he is hopeful for the future.
     </p>
     <Quoteholder>
         <Quote>

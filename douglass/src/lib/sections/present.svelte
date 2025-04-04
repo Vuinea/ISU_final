@@ -7,9 +7,9 @@
 
 <Section subheading='The Present'>
     <p slot='sectionBlurb'>
-        As the name indicates, the present section of the speech is dedicated 
+        As the name indicates, this section of the speech is dedicated 
         to the current state of the country and the 
-        struggles that slaves are facing at the time.
+        struggles that slaves are facing.
     </p>
     <Quoteholder>
         <Quote>
@@ -23,13 +23,13 @@
             <div slot='description'>
                 In this quote, Douglass highlights how the 4th of July is a day of celebration for the white population, 
                 but it is a day of mourning for slaves. He mentions that white people inherit the core values that the
-                Founding Fathers believed in, while slaves are stuck dying in the "sunlight" given by the day.
+                Founding Fathers believed in, while slaves are stuck dying in the "sunlight" on July 4th.
             </div>
         </Quote>
         <Quote>
             <div slot='quote'>
                 “America is false to the past, false to the present, and solemnly binds herself to be false to the future. 
-                <Semibold>Standing with God</Semibold> and the crushed and bleeding slave on this occasion
+                <Semibold>Standing with God</Semibold> and the crushed and bleeding slave on this occasion"
             </div>
             <div slot='description'>
                 Douglass asserts that America uses the excuse of "God" to justify their actions
@@ -44,9 +44,9 @@
             </div>
             <div slot='description'>
                 In this quote, Douglass is using his 'sense of hearing' to indicate the
-                problems that he believe are most important in this country. He believes that
-                the issue of slavery not being addressed on the day that celebrates freedom
-                is a problem for the country.
+                problems that he believe are most important in this country. Since he hears the chains
+                over cheers, it can be inferred that he feels that the country's slavery problem
+                is a bigger issue than celebrating independence.
             </div>
         </Quote>
         <Quote>
@@ -56,10 +56,10 @@
                 the <Semibold>gross injustice and cruelty</Semibold> to which he is the constant victim.”
             </div>
             <div slot='description'>
-                Here, Douglass answers the question that the name of the quote proposes.
+                Here, Douglass answers the question that the name of the speech proposes.
                 The whole speech up until now has led up to this irony. The irony that
-                the day that is meant to be celebrated by ALL Americans is a day that
-                around 12% of the population realized their lack of core American values.
+                a day celebrating freedom for ALL Americans is occuring when 12%
+                of the population is enslaved by fellow countrymen.
             </div>
         </Quote>
     </Quoteholder>

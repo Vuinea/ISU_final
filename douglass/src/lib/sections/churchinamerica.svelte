@@ -7,7 +7,7 @@
 
 <Section subheading='Religion in England and Religion in America'>
     <p slot='sectionBlurb'>
-        Douglass briefly compares how religion is England brings the nation forward,
+        Douglass briefly compares how religion in England brings the nation forward,
         while in the USA it holds the country back. However, the main focus of this
         section is to once again bring up the hypocrisy of slavery in a free nation.
     </p>
@@ -23,8 +23,8 @@
             </div>
             <div slot='description'>
                 Douglass once again brings up the hypocrisy of the American people that he mentioned
-                at the beginning of the speech to convince the audience that slavery is a problem that
-                needs to be addresssed as soon as possible.
+                at the beginning of the speech. He does this to villify the country and make the audience
+                agree with his stance on the topic of slavery.
             </div>
         </Quote>
         <Quote>
@@ -35,7 +35,7 @@
             </div>
             <div slot='description'>
                 This excerpt is almost a direct continuation of the corruption he was talking about
-                earlier in the speech, but it connects to the idea of the American Revolution from the introduction.
+                earlier in the speech, but it also connects to the idea of the American Revolution from the introduction.
                 Comparing the heroic tale of Boston Tea Party to the corruption of the government today is trying to give
                 the effect that the country is not the same country that it once was. It is not a country of equality,
                 but instead one where the rich ("white people") continue to grow power while the others diminish. 

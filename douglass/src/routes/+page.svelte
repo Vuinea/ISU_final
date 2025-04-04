@@ -15,8 +15,14 @@
 <Parallax 
     backgroundImg='https://news.harvard.edu/wp-content/uploads/2023/06/wadsworth_02_Frederick-Douglass-cabinet-card-c1879-by-George-Kendall-Warren-1785.jpg?resize=1462,2048' 
 >
+<!-- 
+
 "Your fathers staked their lives, their fortunes, and their sacred honor, on the cause of their country.
 In their admiration of liberty, they lost sight of all other interests.”
+
+"I have one great political idea, that is, to agitate, to agitate, agitate!"
+
+-->
 </Parallax>
 
 <Introduction />
@@ -24,7 +30,6 @@ In their admiration of liberty, they lost sight of all other interests.”
 <Parallax 
     backgroundImg='https://wordpress.wbur.org/wp-content/uploads/2016/07/0720-fred-douglass-harpers.jpg'
 >
-"I have one great political idea, that is, to agitate, to agitate, agitate!"
 </Parallax>
 
 <Present />
@@ -32,8 +37,7 @@ In their admiration of liberty, they lost sight of all other interests.”
 <Parallax 
     backgroundImg='https://news.harvard.edu/wp-content/uploads/2023/06/wadsworth_02_Frederick-Douglass-cabinet-card-c1879-by-George-Kendall-Warren-1785.jpg?resize=1462,2048' 
 >
-"Your fathers staked their lives, their fortunes, and their sacred honor, on the cause of their country.
-In their admiration of liberty, they lost sight of all other interests.”
+
 </Parallax>
 
 <Internaltrade />
@@ -41,7 +45,6 @@ In their admiration of liberty, they lost sight of all other interests.”
 <Parallax 
     backgroundImg='https://wordpress.wbur.org/wp-content/uploads/2016/07/0720-fred-douglass-harpers.jpg'
 >
-"I have one great political idea, that is, to agitate, to agitate, agitate!"
 </Parallax>
 
 
@@ -50,8 +53,7 @@ In their admiration of liberty, they lost sight of all other interests.”
 <Parallax 
     backgroundImg='https://news.harvard.edu/wp-content/uploads/2023/06/wadsworth_02_Frederick-Douglass-cabinet-card-c1879-by-George-Kendall-Warren-1785.jpg?resize=1462,2048' 
 >
-"Your fathers staked their lives, their fortunes, and their sacred honor, on the cause of their country.
-In their admiration of liberty, they lost sight of all other interests.”
+
 </Parallax>
 
 <Church />
@@ -59,7 +61,6 @@ In their admiration of liberty, they lost sight of all other interests.”
 <Parallax 
     backgroundImg='https://wordpress.wbur.org/wp-content/uploads/2016/07/0720-fred-douglass-harpers.jpg'
 >
-"I have one great political idea, that is, to agitate, to agitate, agitate!"
 </Parallax>
 
 <Churchinamerica />
@@ -67,8 +68,7 @@ In their admiration of liberty, they lost sight of all other interests.”
 <Parallax 
     backgroundImg='https://news.harvard.edu/wp-content/uploads/2023/06/wadsworth_02_Frederick-Douglass-cabinet-card-c1879-by-George-Kendall-Warren-1785.jpg?resize=1462,2048' 
 >
-"Your fathers staked their lives, their fortunes, and their sacred honor, on the cause of their country.
-In their admiration of liberty, they lost sight of all other interests.”
+
 </Parallax>
 
 <Constitution />
@@ -76,5 +76,10 @@ In their admiration of liberty, they lost sight of all other interests.”
 <Parallax 
     backgroundImg='https://wordpress.wbur.org/wp-content/uploads/2016/07/0720-fred-douglass-harpers.jpg'
 >
-"I have one great political idea, that is, to agitate, to agitate, agitate!"
 </Parallax>
+
+<style>
+    * {
+        font-family: Inter, sans-serif;
+    }
+</style>
