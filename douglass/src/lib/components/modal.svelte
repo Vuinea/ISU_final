@@ -20,7 +20,7 @@
         z-index: 10;
     }
 
-    .modal {
+    .quote-modal {
         position: fixed;
         top: 50%;
         left: 50%;
@@ -45,7 +45,7 @@
 
 {#if isOpen}
     <div class="backdrop" on:click={closeModal}></div>
-    <div class="modal">
+    <div class="quote-modal">
         <button class="close-btn" on:click={closeModal}>&times;</button>
         <slot></slot>
     </div>
