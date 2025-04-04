@@ -2,6 +2,8 @@
     import Modal from '$lib/components/modal.svelte';
     import Parallax from '$lib/components/parallax.svelte';
     import Section from '$lib/components/section.svelte';
+    import Quoteholder from '$lib/components/quoteholder.svelte';
+    import Quote from '$lib/components/quote.svelte';
 
     let showModal = false;
 
@@ -22,6 +24,16 @@ In their admiration of liberty, they lost sight of all other interests.”
     the most powerful speeches in American history: “What to the Slave is the Fourth of July?” In a nation
     celebrating its independence and freedom, Douglass brought the contradiction between the "Land of the Free"
     and slavery.
+    <Quoteholder>
+        <Quote>
+            <div slot='quote'>
+                Jitlyang
+            </div>
+            <div slot='description'>
+                This is the description of a jitleyang
+            </div>
+        </Quote>
+    </Quoteholder>
 </Section>
 
 <Parallax 
